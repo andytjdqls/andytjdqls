@@ -1,21 +1,24 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0A192F&height=200&section=header&text=Building%20Reliable%20Systems&fontColor=64FFDA&fontSize=50" alt="Header" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=112240&height=100&section=header&text=Building%20Reliable%20Systems&fontColor=00FFA3&fontSize=40" alt="Header" width="100%">
 </p>
 
 <!-- 애니메이션 텍스트 -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=1000&color=64FFDA&center=true&vCenter=true&width=800&lines=Cloud+Infra%2C+Back-End%2C+Finance+Focus%2C+%F0%9F%92%A1+Developer+on+the+Rise!" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=1000&color=112240&center=true&vCenter=true&width=800&lines=Cloud+Infra%2C+Back-End%2C+Finance+Focus%2C+%F0%9F%92%A1+Developer+on+the+Rise!" alt="Typing SVG">
   </a>
 </p>
 
 <div align="center" style="display: flex; align-items: stretch; justify-content: center; gap: 10px;">
- <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andytjdqls&layout=compact&title_color=64FFDA&text_color=FFFFFF&bg_color=0A192F&border_radius=10" alt="Most Used Languages" style="width: 48%; height: auto; display: block;">
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andytjdqls&layout=compact&title_color=00FFA3&text_color=E6F1FF&bg_color=112240&border_radius=10" alt="Most Used Languages" style="width: 48%; height: auto; display: block;">
   
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=andytjdqls&show_icons=true&title_color=64FFDA&icon_color=64FFDA&text_color=FFFFFF&bg_color=0A192F&border_radius=10" alt="GitHub Stats" style="width: 48%; height: auto; display: block;">
+  <img src="https://github-readme-stats.vercel.app/api?username=andytjdqls&show_icons=true&title_color=00FFA3&icon_color=00FFA3&text_color=E6F1FF&bg_color=112240&border_radius=10" alt="GitHub Stats" style="width: 48%; height: auto; display: block;">
 </div>
+
+
+
 
 
 <br>
@@ -23,7 +26,7 @@
 ## ⚒️ Skills and Tools
 
 | **Category**       | 🚀 **Experienced**                                                                                                                       | 📚 **Currently Learning**         |
-|:------------------:|:----------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------:|
+|:------------------:|----------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|
 | **Language**       | ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |                              |
 | **Backend**        | ![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=apache-tomcat&logoColor=black) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat&logo=amazonec2&logoColor=white) |                              |
 | **Frontend**       | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |                              |
@@ -38,12 +41,12 @@
 
 ## ☑️ Projects
 
-| **Project**        | **Terms**            | **Topic**                                       | **Data**                     | **Git**                                                                 |
-|:----------------------:|:------------------:|:---------------------------------------------:|:------------------------------:|:-----------------------------------------------------------------------------:|
-| 카드 소비 데이터 플랫폼 | *2025.01.10 ~ 2025.01.14* | Spring MVC와 Oracle DB를 활용한 카드 소비 데이터 분석 플랫폼 | [집계구별 일별 시간대별 카드소비패턴](https://bigdata.seoul.go.kr/data/selectSampleData.do?r_id=P213&sample_data_seq=318)          | [카드 소비 데이터 플랫폼](https://github.com/seulg2027/card_consume_data_platform.git) |
-| 송금 서비스 개발        | *2025.01.15 ~ 2025.01.21* | 정규표현식을 활용한 데이터 검증 및 원격 DB 연결 프로젝트     | 송금 내역 및 사용자 더미 데이터 [Chat GPT](https://chat.openai.com) ,  [계좌번호체계](https://www.cmsedi.or.kr/cms/board/workdata)   | [송금 서비스 개발](https://github.com/UnoYoon/Send_Money.git)               |
-| PersonIn8 프로젝트     | *2025.01.21 ~ 2025.01.24* | ElasticSearch 기반 실시간 경제 뉴스 분석 및 맞춤형 ETF 추천 플랫폼       | [네이버 뉴스](https://news.naver.com/) 크롤링 데이터      | [PersonIn8 프로젝트](https://github.com/PersonIn8/PersonIn8.git)             |
-| Linux ELK 스택 구축     | *2025.01.24 ~ 2025.01.24* | ELK 스택 기반 소비 데이터 분석 및 맞춤형 카드 혜택 플랫폼     | 금융 실무 데이터                 | [Linux ELK 스택 구축](https://github.com/PersonIn8/LinuxELK.git)            |
+| **Project**        | **Terms**            | **Topic**                                       | **Data**                     | **GitHub**                                                                 |
+|----------------------|:------------------:|:---------------------------------------------:|:------------------------------:|:-----------------------------------------------------------------------------:|
+| 카드 소비 데이터 <br> 플랫폼 | *2025.01.10 ~ 2025.01.14* | Spring MVC와 Oracle DB를 활용한 카드 소비 데이터 분석 플랫폼 | [집계구별 일별 시간대별 카드소비패턴](https://bigdata.seoul.go.kr/data/selectSampleData.do?r_id=P213&sample_data_seq=318)          | [카드 소비 데이터 플랫폼](https://github.com/seulg2027/card_consume_data_platform.git) |
+| 송금 서비스 앱 구축        | *2025.01.15 ~ 2025.01.21* | 정규표현식을 활용한 데이터 검증 및 원격 DB 연결 프로젝트     | 송금 내역 및 사용자 더미 데이터 [Chat GPT](https://chat.openai.com) ,  [계좌번호체계](https://www.cmsedi.or.kr/cms/board/workdata)   | [송금 서비스 개발](https://github.com/UnoYoon/Send_Money.git)               |
+| ELK pipepline 기반 ETF 추천 플랫폼     | *2025.01.21 ~ 2025.01.24* | ElasticSearch 기반 실시간 경제 뉴스 분석 및 맞춤형 ETF 추천 플랫폼       | [네이버 뉴스](https://news.naver.com/) 크롤링 데이터      | [PersonIn8 프로젝트](https://github.com/PersonIn8/PersonIn8.git)             |
+| 금융 카드 실무 데이터를 이용한 <br> Linux ELK Stack 구축     | *2025.01.24 ~ 2025.01.24* | ELK Stack 기반 소비 데이터 분석 및 맞춤형 카드 혜택 플랫폼     | 금융 카드 실무 데이터                 | [Linux ELK 스택 구축](https://github.com/PersonIn8/LinuxELK.git)            |
 
 <!--
 **andytjdqls/andytjdqls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
