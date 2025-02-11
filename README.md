@@ -49,7 +49,10 @@
 | 송금 서비스 앱 구축        | *2025.01.15 ~ 2025.01.21* | 정규표현식을 활용한 데이터 검증 및 원격 DB 연결 프로젝트     | 송금 내역 및 사용자 더미 데이터 [Chat GPT](https://chat.openai.com) ,  [계좌번호체계](https://www.cmsedi.or.kr/cms/board/workdata)   | [송금 서비스 개발](https://github.com/UnoYoon/Send_Money.git)               |
 | ELK pipepline 기반 ETF 추천 플랫폼     | *2025.01.21 ~ 2025.01.24* | ElasticSearch 기반 실시간 경제 뉴스 분석 및 맞춤형 ETF 추천 플랫폼       | [네이버 뉴스](https://news.naver.com/) 크롤링 데이터      | [PersonIn8 프로젝트](https://github.com/PersonIn8/PersonIn8.git)             |
 | 금융 카드 실무 데이터를 이용한 <br> Linux ELK Stack 구축     | *2025.01.24 ~ 2025.01.24* | ELK Stack 기반 소비 데이터 분석 및 맞춤형 카드 혜택 플랫폼     | **금융 카드 실무 데이터**                 | [Linux ELK 스택 구축](https://github.com/PersonIn8/LinuxELK.git)            |
-| 트로트 팬 <br> 플랫폼 | *2025.02.03 ~ 2025.02.10* |  | [시장분석](https://github.com/PersonIn8/Trot_Master?tab=readme-ov-file#-2-%EC%8B%9C%EC%9E%A5-%EB%B6%84%EC%84%9D) <br> **창업** 비즈니스 관점의 <br> **근거 있는** 인사이트 | [50~60대 트로트 팬을 위한 팬덤 커뮤니티 & 굿즈 거래 플랫폼](https://github.com/PersonIn8/Trot_Master.git) |
+| 트로트 팬 <br> 플랫폼 | *2025.02.03 ~ 2025.02.10* | 5060세대 트로트 팬을 위한 <br> 팬덤 커뮤니티 & 굿즈 거래 플랫폼 | [시장분석](https://github.com/PersonIn8/Trot_Master?tab=readme-ov-file#-2-%EC%8B%9C%EC%9E%A5-%EB%B6%84%EC%84%9D) <br> **창업** 비즈니스 관점의 <br> **근거 있는** 인사이트 | [50~60대 트로트 팬을 위한 팬덤 커뮤니티 & 굿즈 거래 플랫폼](https://github.com/PersonIn8/Trot_Master.git) |
+
+
+
 <!--
 **andytjdqls/andytjdqls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
