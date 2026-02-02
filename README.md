@@ -2,25 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=112240&height=100&section=header&text=Building%20Reliable%20Systems&fontColor=00FFA3&fontSize=40" alt="Header" width="100%">
 </p>
 
-<!-- 애니메이션 텍스트 -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=1000&color=112240&center=true&vCenter=true&width=800&lines=Cloud+Infra+%F0%9F%92%A1+Developer+on+the+Rise!" alt="Typing SVG">
-  </a>
-</p>
-
-<div align="center" style="display: flex; align-items: stretch; justify-content: center; gap: 10px;">
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andytjdqls&layout=compact&title_color=00FFA3&text_color=E6F1FF&bg_color=112240&border_radius=10" alt="Most Used Languages" style="width: 48%; height: auto; display: block;">
-  
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=andytjdqls&show_icons=true&title_color=00FFA3&icon_color=00FFA3&text_color=E6F1FF&bg_color=112240&border_radius=10" alt="GitHub Stats" style="width: 48%; height: auto; display: block;">
-</div>
-
-
-
-
-
 <br>
 
 ## ☑️ Projects
