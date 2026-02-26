@@ -27,7 +27,6 @@
 | Slack 알람 봇 | *2025.03.17* | Nginx 및 MySQL 프로세스 리소스를 모니터링하고 Slack으로 알람 전송 | 시스템 리소스 데이터 실시간 수집 | [Slack Alarm Bot](https://github.com/DockerMiniProject/slack_alarm_bot) |
 | 금융 카드 실무 데이터를 이용한 <br> Linux ELK Stack 구축     | *2025.01.24 ~ 2025.01.24* | ELK Stack 기반 소비 데이터 분석 및 맞춤형 카드 혜택 플랫폼     | **금융 카드 실무 데이터**                 | [Linux ELK 스택 구축](https://github.com/PersonIn8/LinuxELK.git)            |
 | 그룹 공동 클라우드 기반 PaaS 제공 시스템 (최종 프로젝트) | *2025.04 ~ 2025.06* | 하이브리드 클라우드 기반 PaaS 설계 및 제공 시스템 구축 | 인프라 상태·비용·로그·모니터링 데이터 | *(정리 중)* |
-| AI 기반 포트폴리오 학습·분석 플랫폼 (진행 중) | *2025.07 ~ 진행 중* | 포트폴리오 데이터를 활용한 AI 학습·분석 웹 플랫폼 | 사용자 포트폴리오·학습 로그 데이터 | *(Private / 예정)* |
 
 ## ⚒️ Skills and Tools
 
